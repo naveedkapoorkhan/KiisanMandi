@@ -1,0 +1,22 @@
+.container{
+  background-color: rgb(166, 166, 166);
+}
+.cardmedia{
+  padding-top: 56.25%;
+
+}
+.classgrid{
+  padding: 20px 0;
+
+}
+.card{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+
+}
+.cardcontent{
+  flex-grow: 1;
+
+}
+
