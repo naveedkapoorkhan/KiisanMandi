@@ -8,7 +8,7 @@ const Hero = () => {
       <div>
         <div>
           <Slider slides={data.sliderimagesdata} />
-       i am naveed
+       
         </div>
       </div>
     </>
